@@ -5,4 +5,8 @@
 
 A three-link robotic arm project inspired by the LeRobot ecosystem. The goal is to coordinate manipulator hardware, actuation, and software interfaces.
 
-Hardware details, control work, and results will be documented here as they become available. No project files have been supplied for this repository yet.
+## Project image
+
+![LeRobot-inspired three-link robotic arm](images/lerobot-arm.png)
+
+Hardware details, control work, and results will be documented here as they become available.
